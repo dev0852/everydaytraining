@@ -1,0 +1,2 @@
+# everydaytraining
+Coding casually everyday.
