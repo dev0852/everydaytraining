@@ -363,7 +363,7 @@ int main()
     for(int i = 0; i < n; i++){
         cin >> a[i];
     }
-    rb_tree t;
+    rbtree t;
     for(int i = 0; i < n; i++){
         t.insert(a[i]);
     }
